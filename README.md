@@ -21,6 +21,7 @@
 ### Connect with Me :
 
 <a href="https://linkedin.com/in/mahmoued-abdelghani" target="_blank"><img src="[https://img.shields.io/badge/-Mahmoued%20Abdelghani-0077B5](https://web.telegram.org/0d1b1fa4-f9a1-49ab-9073-39b010d4108f)?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/mahmoued-abdelghani" target="_blank"><img src="[https://img.shields.io/badge/-Mahmoued%20Abdelghani-0077B5](https://web.telegram.org/0d1b1fa4-f9a1-49ab-9073-39b010d4108f)?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://t.me/ abn Abdulghani" target="_blank"><img src="https://img.shields.io/badge/-Mahmoud%20Abdelghani-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
